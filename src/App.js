@@ -10,7 +10,7 @@ function App() {
       <>
         <Nav/>
         <Routes> 
-          <Route path="/" component={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/About"/>
           <Route path="/Projects" />
           <Route path="/Contact" />
