@@ -1,0 +1,71 @@
+#Home{
+    background-color: #122620;
+    display: flex;
+    min-width: 70vh;
+    min-height: 79vh;
+}
+
+
+#info {
+    margin: 2rem auto 0 2rem;
+    padding: 20px;
+    color: #F4EBD0;
+}
+
+#pic {
+    display: flex;
+    margin-top: 5rem; 
+    align-items: flex-start;
+}
+
+#pic img {
+    max-width: 20rem;
+    max-height: 20rem;
+    border-radius: 5px;
+    border: solid #F4EBD0;
+    margin: 0rem 5rem 0rem 10rem;
+}
+
+#Home .hi{
+    font-size: 1.7rem;
+    color: #B68D40;
+    font-style: italic;
+}
+
+#Home .name{
+    font-size: 2rem;
+}
+
+#Home .name h2{
+    font-weight: lighter;
+}
+
+#Home .desc{
+    font-size: 1.2rem;
+    margin: 1rem 0;
+    font-style: italic;
+}
+
+.social{
+    display: flex;
+    justify-content: center;
+    background-color: #122620;
+    gap:2rem;
+}
+
+.social a{
+    text-decoration: none;
+    color: #D6AD60;
+    font-size: 1.6rem;
+    margin: 2.5vh;
+}
+
+.icons{
+    margin-top: 2rem;
+    margin-left: auto;
+}
+
+#logos{
+    margin-top: 0.5rem;
+    font-size: 3rem;
+}
