@@ -9,12 +9,12 @@ function App() {
     <Router>
       <>
         <Nav/>
-        <Switch> 
+        <Routes> 
           <Route path="/" exact component={Home} />
           <Route path="/About"/>
           <Route path="/Projects" />
           <Route path="/Contact" />
-        </Switch>
+        </Routes>
       </>
     </Router>
   )
