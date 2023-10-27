@@ -41,8 +41,8 @@ export class Home extends React.Component{
                 </div>  
 
                 <div className="social">
-                    <a href="https://github.com/renanmbs/"><FaGithub className="icons"/></a>
-                    <a href="https://www.linkedin.com/in/renan-silva-7ba0781b8/"><FaLinkedinIn className="icons"/></a>
+                    <a href="https://github.com/renanmbs/" target="_blank" rel="noopener noreferrer"><FaGithub className="icons"/></a>
+                    <a href="https://www.linkedin.com/in/renan-silva-7ba0781b8/" target="_blank" rel="noopener noreferrer"><FaLinkedinIn className="icons"/></a>
                 </div>
 
             </>

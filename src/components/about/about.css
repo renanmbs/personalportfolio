@@ -1,0 +1,78 @@
+#About{
+    background: url("/public/back.jpeg") center center no-repeat;
+    background-size: cover;
+    min-height: 98vh;
+    max-height: 100vh;
+    position: relative;
+}
+
+#About:before{
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom right, #122620dd 60%, #b68d40bb);
+  }
+
+#About * {
+    position: relative; 
+}
+
+.con{
+    display: flex;
+}
+
+#About h2{
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 2.5rem;
+    color: #B68D40;
+}
+
+#About p{
+    margin: auto 2rem;
+    font-size: 1.3rem;
+    color: #F4EBD0;
+}
+
+#About .start::first-letter{
+    font-size: 2rem;
+}
+
+#About span a{
+    text-decoration: underline #B68D40;
+    color: #D6AD60;
+    font-style: italic;
+}
+
+#About img{
+    max-width: 20rem;
+    max-height: 20rem;
+    border-radius: 5px;
+    margin: 0rem 10rem 0rem 10rem;
+}
+
+#About figure{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#About figcaption{
+    padding: 0rem 2rem;
+    color: white;
+}
+
+#bul{
+    margin: 5rem 0;
+}
+
+#bul li{
+    color: #D6AD60;
+    margin: 0 5rem;
+    font-style: italic;
+    font-size: 1.1rem;
+}
