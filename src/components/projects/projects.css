@@ -1,0 +1,79 @@
+#proj{
+    background-color: #122620;
+    min-height: 80vh;
+    padding: 2rem 0;
+}
+
+#lineup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#proj h2{
+    text-align: center;
+    font-size: 2rem;
+    color: #F4EBD0;
+}
+
+.card{
+    background-color: #F4EBD0;
+    margin: 2rem 10rem;
+    display: flex;
+    border: solid #D6AD60;
+    text-align: center;
+}
+
+.card img{
+    height: 22rem;
+    min-width: 30rem;
+    max-width: 30rem;
+    border-right: solid #D6AD60;
+}
+
+.card h3{
+    font-size: 2rem;
+    color: #B68D40;
+}
+
+.card p{
+    margin: 2rem 1rem;
+}
+
+.card h4{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.2rem;
+    color: #122620;
+}
+
+.card .icon{
+    margin: 2rem 0;
+    font-size: 2.5rem;
+    color: #B68D40;
+}
+
+.card .open{
+    font-size: 1.5rem;
+    gap: 2rem;
+}
+
+.card .open a{
+    text-decoration: none;
+    color: #122620;
+    margin: auto 0.5rem;
+}
+
+.see{
+    width: 9rem;
+    height: 3rem;
+    border-radius: 5px;
+    border: solid #B68D40;
+    text-transform: uppercase;
+    background-color:transparent;
+    color: #F4EBD0;
+    font-weight: bold;
+    margin: 1rem 0;
+    cursor: pointer;
+}

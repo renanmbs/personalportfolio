@@ -31,7 +31,7 @@ nav .res{
     text-align: center;
 }
 
-nav .res a{
+nav a button{
     color: #F4EBD0 !important;
     text-transform: uppercase;
 }

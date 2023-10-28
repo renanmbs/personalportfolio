@@ -1,0 +1,70 @@
+#Contact{
+   text-align: center;
+   background-color: #122620;
+}
+
+#Contact p{
+    padding: 2rem 0rem 1rem 0rem;
+    color: #B68D40;
+}
+
+#Contact h2{
+    color: #F4EBD0;
+    font-size: 2rem;
+}
+
+#Contact h5{
+    color: #D6AD60;
+    margin: 1rem 0;
+    font-size: 1rem;
+}
+
+.cicon{
+    font-size: 2.5rem;
+    margin: 1rem 0.5rem;
+}
+
+#cont a, #social a{
+    text-decoration: none;
+    color: #B68D40;
+}
+
+#Contact img{
+    max-height: 20rem;
+    border-radius: 5px;
+    margin: 1rem 0;
+}
+
+#Contact h3{
+    color: #F4EBD0;
+    font-size: 1.6rem;
+}
+
+#ref{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.refbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F4EBD0;
+    width: 15rem;
+    height: 7rem;
+    margin: 2rem 0;
+    border: solid #B68D40;
+    border-radius: 5px;
+}
+
+.refbox a{
+    text-decoration: none;
+    color: #122620;
+    font-size: 1.2rem;
+}
+
+.refbox li{
+    list-style: none;
+    margin: 1rem 0;
+}
