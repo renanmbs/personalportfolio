@@ -43,3 +43,21 @@
 .box h4{
     margin: 0.5rem 0;
 }
+
+@media only screen and (max-width:1023px){
+    .box{
+        width: 15rem;
+        height: 18rem;
+    }
+
+    .box h3{
+        font-size: 1.1rem;
+        color: #B68D40;
+        font-style: italic;
+    }
+    
+    .box p{
+        margin: 1rem 0.5rem;
+        font-size: 0.8rem;
+    }
+}

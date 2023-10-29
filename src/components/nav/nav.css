@@ -54,3 +54,17 @@ nav a:hover {
     color: #B68D40;
 }
   
+@media only screen and (max-width:1023px){
+    nav ul{
+        gap: 0.6rem;
+    }
+
+    nav .res{
+        padding: 0.4rem 0.5rem;
+        margin: 1vh .5rem 1vh 0;
+    }
+
+    nav a{
+        font-size: 0.8rem;
+    }
+}

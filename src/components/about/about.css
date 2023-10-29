@@ -82,3 +82,50 @@
     font-style: italic;
     font-size: 1.1rem;
 }
+
+@media only screen and (max-width:1023px){
+    #About{
+        max-height: 190vh;
+        min-height: 120vh;
+    }
+
+    #About h2{
+        padding: 0.8rem 0;
+        font-size: 1.5rem;
+    }
+    
+    #About p{
+        margin: auto 0.3rem;
+        font-size: 0.8rem;
+        color: #F4EBD0;
+    }
+    
+    #About .start::first-letter{
+        font-size: 1.2rem;
+    }
+
+    #About img{
+        max-width: 8rem;
+        max-height: 8rem;
+        border-radius: 5px;
+        margin: 0rem 0.5rem 0rem 0.5rem;
+    }
+
+    #About figcaption{
+        padding: 0rem 2.5rem;
+        color: white;
+        font-size: 0.8rem;
+    }
+
+    #bul{
+        margin: 1rem 0 0rem 0;
+        padding-bottom: 1rem;
+    }
+    
+    #bul li{
+        color: #D6AD60;
+        margin: 0 .8rem;
+        font-style: italic;
+        font-size: 0.8rem;
+    }
+}
