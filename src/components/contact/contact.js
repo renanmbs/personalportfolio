@@ -16,7 +16,7 @@ export class Contact extends React.Component{
                 <div id="cont">
                     <a href="mailto:renan.mougenot@gmail.com"><HiOutlineMail className="cicon"/></a>
                     <a href="sms:+18014994558"><AiOutlineMessage className="cicon"/></a>
-                    <a href="https://api.whatsapp.com/send?phone=8014994558" target="_blank" rel="noopener noreferrer"><AiOutlineWhatsApp className="cicon"/></a>
+                    <a href="https://api.whatsapp.com/send?phone=8014994558"><AiOutlineWhatsApp className="cicon"/></a>
                 </div>
 
                 <div id="social">

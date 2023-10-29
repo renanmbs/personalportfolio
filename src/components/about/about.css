@@ -119,13 +119,16 @@
 
     #bul{
         margin: 1rem 0 0rem 0;
-        padding-bottom: 1rem;
     }
     
     #bul li{
         color: #D6AD60;
-        margin: 0 .8rem;
+        margin: 0 1rem;
         font-style: italic;
         font-size: 0.8rem;
+    }
+
+    #bul ul{
+        margin: 0 1rem;
     }
 }

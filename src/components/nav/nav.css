@@ -60,11 +60,11 @@ nav a:hover {
     }
 
     nav .res{
-        padding: 0.4rem 0.5rem;
+        padding: 0.6rem 0.8rem;
         margin: 1vh .5rem 1vh 0;
     }
 
     nav a{
-        font-size: 0.8rem;
+        font-size: 1.2rem;
     }
 }
