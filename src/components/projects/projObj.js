@@ -33,6 +33,14 @@ export const proj = [
     },
 
     {
+        title: "Personal Portfolio",
+        desc: "React App for my personal portfolio. Using javascript objects, for expandability and cleanlines",
+        github: "https://github.com/renanmbs/personalportfolio",
+        open: "https://lcamsoccer.netlify.app/",
+        tech: "react, html, css, json"
+    },
+
+    {
         title: "Money Converter",
         desc: "Created a website that uses a real-time currency API. I manipulate the JSON according to the user's desire of what to do in the website.",
         github: "https://github.com/renanmbs/currency",
