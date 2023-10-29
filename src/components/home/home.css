@@ -84,8 +84,6 @@
     #Home{
         background-color: #122620;
         display: flex;
-        min-height: 79vh;
-        max-height: 110vh;
     }
 
     #Home .hi{
@@ -114,9 +112,8 @@
         color: #F4EBD0;
     }
 
-    #logos{
-        margin-top: 0.5rem;
-        font-size: 2rem;
+    .social a{
+        margin: 1vh;
     }
     
 }

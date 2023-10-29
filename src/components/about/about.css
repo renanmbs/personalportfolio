@@ -84,10 +84,6 @@
 }
 
 @media only screen and (max-width:1023px){
-    #About{
-        max-height: 190vh;
-        min-height: 120vh;
-    }
 
     #About h2{
         padding: 0.8rem 0;
