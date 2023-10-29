@@ -58,6 +58,15 @@
     color: #D6AD60;
     font-size: 1.6rem;
     margin: 2.5vh;
+    transition: all 300ms ease-in-out;
+}
+
+.social a:hover{
+    color: #F4EBD0;
+}
+
+.social a:focus{
+    color: #B68D40;
 }
 
 .icons{

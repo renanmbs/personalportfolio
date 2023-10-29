@@ -20,6 +20,7 @@ nav a{
     color: #F4EBD0;
     font-weight: bold;
     font-size: 1rem;
+    transition: all 400ms ease-in-out;
 }
 
 nav .res{
@@ -29,9 +30,27 @@ nav .res{
     border: transparent;
     border-radius: 5px;
     text-align: center;
+    cursor: pointer;
+    transition: all 300ms ease-in;
+}
+
+nav .res:hover{
+    background-color: transparent;
+    outline: solid #B68D40;
+}
+
+nav .res:focus{
+    background-color: #B68D40;
+    color: #122620;
+    outline: solid #F4EBD0;
 }
 
 nav a button{
     color: #F4EBD0 !important;
     text-transform: uppercase;
 }
+
+nav a:hover {
+    color: #B68D40;
+}
+  

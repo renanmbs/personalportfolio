@@ -27,7 +27,7 @@ export class About extends React.Component{
                         <br/>
 
                         <p>Beyond coding, I lead a rich and diverse life. My interests span from spending quality time with my wife and daughter to volunteering as the head coach for the Weber State University 
-                            Men's Soccer Team and as an assistant coach for the <span style={{color:"red"}}><a href="https://weber.edu/"  target="_blank" rel="noopener noreferrer">Layton Christian Academy</a></span> Men's Soccer Team. I find inspiration in music and enjoy playing soccer myself.
+                            Men's Soccer Team and as an assistant coach for the <span style={{color:"red"}}><a href="https://www.lcaeagle.org/"  target="_blank" rel="noopener noreferrer">Layton Christian Academy</a></span> Men's Soccer Team. I find inspiration in music and enjoy playing soccer myself.
                         </p>
                         
                     </div>

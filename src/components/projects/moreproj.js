@@ -14,7 +14,7 @@ export class MoreProj extends React.Component{
                         <h3>{name.title}</h3>
                         <p>{name.desc}</p>
                         <div className="links">
-                            <a href={name.open} target="_blank" rel="noopener noreferrer"><MdOpenInNew/></a>
+                            {name.open === null ? null : <a href={name.open} target="_blank" rel="noopener noreferrer"><MdOpenInNew/></a>}
                             <a href={name.github} target="_blank" rel="noopener noreferrer"><BiLogoGithub/></a>
                         </div>
                         <div className="techstack">

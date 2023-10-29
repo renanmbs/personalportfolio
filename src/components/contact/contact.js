@@ -15,8 +15,8 @@ export class Contact extends React.Component{
 
                 <div id="cont">
                     <a href="mailto:renan.mougenot@gmail.com"><HiOutlineMail className="cicon"/></a>
-                    <a href="sms:+18014994558?body=Hello%20Renan,%20I%20am%20contacting%20you%20regarding%20your%20portfolio"><AiOutlineMessage className="cicon"/></a>
-                    <a href="https://api.whatsapp.com/send?phone=8014994558&text=Hello%20Renan!"><AiOutlineWhatsApp className="cicon"/></a>
+                    <a href="sms:+18014994558"><AiOutlineMessage className="cicon"/></a>
+                    <a href="https://api.whatsapp.com/send?phone=8014994558" target="_blank" rel="noopener noreferrer"><AiOutlineWhatsApp className="cicon"/></a>
                 </div>
 
                 <div id="social">
@@ -31,7 +31,7 @@ export class Contact extends React.Component{
 
                     <div className="refbox">
                         <ul>
-                            <li><a href="mailto:brandbingham@gmail.com">Brandon Bigham</a></li>
+                            <li><a href="mailto:brandbingham@gmail.com">Brandon Bingham</a></li>
                             <li><a href="mailto:dralphs44@gmail.com">Duane Ralphs</a></li>
                             <li><a href="mailto:lucas.almeida9@outlook.com">Lucas Almeida</a></li>
                         </ul>

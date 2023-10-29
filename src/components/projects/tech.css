@@ -1,4 +1,9 @@
 .ticon{
     font-size: 2rem;
     color: #122620;
+    transition: all 300ms ease-in-out;
+}
+
+.ticon:hover{
+    transform: scale(1.2);
 }

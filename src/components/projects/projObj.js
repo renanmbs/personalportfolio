@@ -35,7 +35,7 @@ export const proj = [
     {
         title: "Money Converter",
         desc: "Created a website that uses a real-time currency API. I manipulate the JSON according to the user's desire of what to do in the website.",
-        github: "https://github.com/renanmbs/lca",
+        github: "https://github.com/renanmbs/currency",
         open: "https://renanmbs.github.io/currency/",
         tech: "javascript, html, css, json, api"
     },
@@ -51,7 +51,7 @@ export const proj = [
     {
         title: "Tip Calculator",
         desc: "Created a calculator to calculate the tip from the user's check. Two possible ways of calculation (percentage of check, or how much you are giving in percentage)",
-        github: "https://github.com/renanmbs/currency",
+        github: "https://github.com/renanmbs/tip_calculator",
         open: "https://renanmbs.github.io/tip_calculator/",
         tech: "javascript, html, css"
     },
@@ -115,7 +115,7 @@ export const proj = [
     {
         title: "Block Diagram Tester",
         desc: "Got a function on the time domain, did a Laplace transform to put it the Laplace domain. Based on the Laplace domain function, created a block diagram and used Python to graph the function testing different values for Θ - the result was a sinusoisal response",
-        github: "https://github.com/renanmbs/lca",
+        github: "https://github.com/renanmbs/Sample-Work/blob/main/Block%20Diagram.py",
         open: null,
         tech: "python"
     },
