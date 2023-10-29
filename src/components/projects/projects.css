@@ -120,14 +120,12 @@
         margin: 1rem 0.3rem;
         width: 22rem;
         height: 17rem;
-        border-radius: 5px;
     }
     
     .card img{
-        height: 16.8rem;
+        height: 16.7rem;
         min-width: 10rem;
         max-width: 10rem;
-        border-radius: 3px;
     }
 
     .card h3{
