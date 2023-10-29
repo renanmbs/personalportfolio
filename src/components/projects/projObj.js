@@ -36,7 +36,7 @@ export const proj = [
         title: "Personal Portfolio",
         desc: "React App for my personal portfolio. Using javascript objects, for expandability and cleanlines",
         github: "https://github.com/renanmbs/personalportfolio",
-        open: "https://lcamsoccer.netlify.app/",
+        open: "https://renans.netlify.app/",
         tech: "react, html, css, json"
     },
 
