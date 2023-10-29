@@ -61,12 +61,12 @@ nav a:hover {
     }
 
     nav .res{
-        padding: 0.6rem 1rem;
+        padding: 0.4rem 1rem;
         margin: 1vh .5rem 1vh 0;
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
 
     nav a{
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
 }
