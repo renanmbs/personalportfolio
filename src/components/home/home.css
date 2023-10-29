@@ -82,7 +82,7 @@
 @media only screen and (max-width:1023px){
 
     #Home{
-        min-height: 72vh;
+        min-height: 71vh;
         max-height: 100vh;
     }
 
@@ -113,7 +113,7 @@
     }
 
     .social a{
-        margin: 1vh;
+        margin: 0.6vh 0;
     }
     
 }
