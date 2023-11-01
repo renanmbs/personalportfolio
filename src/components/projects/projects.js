@@ -56,7 +56,7 @@ export class Projects extends React.Component{
                     </div>
 
                     <div className="card">
-                        <img src="/Docs/projects/travel.jpeg" alt="Travel App"/>
+                        <img src="/Docs/projects/travel.jpg" alt="Travel App"/>
 
                         <div className="inf">
                             <h3>Travel Bucket List React App</h3>
