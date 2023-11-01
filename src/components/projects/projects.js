@@ -56,7 +56,7 @@ export class Projects extends React.Component{
                     </div>
 
                     <div className="card">
-                        <img src="/Docs/projects/travel.jpg" alt="Travel App"/>
+                        <img src="/Docs/projects/travel.jpeg" alt="Travel App"/>
 
                         <div className="inf">
                             <h3>Travel Bucket List React App</h3>
@@ -70,6 +70,7 @@ export class Projects extends React.Component{
                                 <BiLogoReact className="icon"/>
                                 <BiLogoHtml5 className="icon"/>
                                 <BiLogoCss3 className="icon"/>
+                                <BiLogoJavascript className="icon"/>
                                 <BiSolidFileJson className="icon"/>
                             </div>
                         </div>
