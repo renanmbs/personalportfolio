@@ -54,6 +54,27 @@ export class Projects extends React.Component{
                         </div>
                        
                     </div>
+
+                    <div className="card">
+                        <img src="/Docs/projects/travel.jpeg" alt="Travel App"/>
+
+                        <div className="inf">
+                            <h3>Travel Bucket List React App</h3>
+                            <div className="open">
+                                <a href="https://my-travel-list.netlify.app/" target="_blank" rel="noopener noreferrer"><MdOpenInNew/></a>
+                                <a href="https://github.com/renanmbs/travel" target="_blank" rel="noopener noreferrer"><BiLogoGithub/></a>
+                            </div>
+                            <p>An expandable React app used for holding all the interest points of the cities I am travelling to. It includes categories like restaurants, stores, relaxing and entertainment. It also renders different pictures according to the city chosen</p>
+                            <div className="tech">
+                                <h4>Technology Stack:</h4>
+                                <BiLogoReact className="icon"/>
+                                <BiLogoHtml5 className="icon"/>
+                                <BiLogoCss3 className="icon"/>
+                                <BiSolidFileJson className="icon"/>
+                            </div>
+                        </div>
+                       
+                    </div>
                     
                     <div className="card">
                         <img src="/Docs/projects/coach.jpg" alt="Coach Database" />
