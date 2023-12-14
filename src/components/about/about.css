@@ -131,7 +131,7 @@
 
 @media only screen and (min-width: 1500px) {
     #About{
-        min-height: 130h;
-        max-height: 150vh;
+        min-height: 150vh;
+        max-height: 160vh;
     }
 }

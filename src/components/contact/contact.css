@@ -119,8 +119,8 @@
 
 @media screen and (min-resolution: 192dpi) {
     #Contact{
-        min-height: 130h;
-        max-height: 150vh;
+        min-height: 150h;
+        max-height: 160vh;
     }
 }
 
