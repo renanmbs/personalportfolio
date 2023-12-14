@@ -116,3 +116,11 @@
         height: 10rem;
     }
 }
+
+@media only screen and (min-width: 1500px) {
+    #Contact{
+        min-height: 300vh;
+        max-height: 350vh;
+    }
+}
+
