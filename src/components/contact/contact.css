@@ -117,7 +117,7 @@
     }
 }
 
-@media only screen and (min-width: 1500px) {
+@media screen and (min-resolution: 192dpi) {
     #Contact{
         min-height: 300vh;
         max-height: 350vh;
