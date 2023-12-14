@@ -87,7 +87,7 @@
     margin: 1rem 0;
 }
 
-@media only screen and (max-width:1023px){
+@media only screen and (max-width:800px){
     #Contact img{
         max-height: 15rem;
     }
@@ -103,4 +103,16 @@
         margin: 1rem 0.5rem;
     }
     
+}
+
+@media only screen and (min-width: 800px) {
+    #Contact{
+        min-height: 100vh;
+        max-height: 110vh;
+    }
+
+    .refbox{
+        width: 35rem;
+        height: 10rem;
+    }
 }

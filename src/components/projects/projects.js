@@ -135,6 +135,13 @@ export class Projects extends React.Component{
                         
                     </div>
 
+                    <br/>
+                    
+
+                </div>
+
+                <div id="ext">
+
                     {
                         this.state.show === 1 ? null : <MoreProj />
                     }
@@ -143,12 +150,9 @@ export class Projects extends React.Component{
                         {
                             this.state.show === 1 ? "See More" : "See Less"
                         }
-                    </button>
-
-                    
+                    </button> 
 
                 </div>
-
     
             </div>
         )

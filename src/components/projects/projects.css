@@ -87,6 +87,11 @@
     transform: scale(1.2);
 }
 
+#ext{
+    display: grid;
+    place-items: center;
+}
+
 .see{
     width: 9rem;
     height: 3rem;
@@ -111,7 +116,7 @@
     transform: scale(1);
 }
 
-@media only screen and (max-width:1023px){
+@media only screen and (max-width:800px){
     #proj h2{
         font-size: 1.5rem;
     }
@@ -161,4 +166,14 @@
         filter: grayscale(0);
     }
 
+}
+
+@media only screen and (min-width: 800px) {
+    .card{
+        width: 70rem;
+    }
+
+    .see{
+        margin: 5rem 0;
+    }
 }
