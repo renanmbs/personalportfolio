@@ -131,10 +131,7 @@
 
 @media only screen and (min-width: 1500px) {
     #About{
-        background: url("/public/back.jpeg") center center no-repeat;
-        background-size: cover;
-        min-height: 98vh;
-        max-height: 100vh;
-        position: relative;
+        min-height: 130h;
+        max-height: 150vh;
     }
 }
