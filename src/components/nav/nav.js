@@ -12,7 +12,7 @@ export class Nav extends React.Component{
                     <li><Link to="/About">About</Link></li>
                     <li><Link to="/Projects">Projects</Link></li>
                     <li><Link to="/Contact">Contact</Link></li>
-                    <li><a href="/Docs/Silva_Renan.pdf"  target="_blank" rel="noopener noreferrer"><button className="res" >Resume</button></a></li>
+                    <li><Link to="/Docs/Silva_Renan.pdf" target="_blank" rel="noopener noreferrer"><button className="res" >Resume</button></Link></li>
                 </ul>
           </nav>
         )
