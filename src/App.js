@@ -8,7 +8,7 @@ import { Contact } from './components/contact/contact';
 
 
 function App() {
-  return(
+  return (
     <Router>
       <>
         <Nav/>
@@ -17,6 +17,7 @@ function App() {
           <Route path="/About" element={<About/>}/>
           <Route path="/Projects" element={<Projects/>} />
           <Route path="/Contact" element={<Contact/>} />
+          <Route path="*" element={<Home />} /> {}
         </Routes>
       </>
     </Router>
