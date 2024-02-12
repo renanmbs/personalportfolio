@@ -11,7 +11,7 @@ export class Contact extends React.Component{
             <div id="Contact">
                 <p>If you've come this far...</p>
                 <h2>Get In Touch</h2>
-                <h5>I am always open to be contacted regarding job openings, web development questions, or if you want to get know more about me. </h5>
+                <h5>I am always open to be contacted regarding job openings, web development questions, or if you want to get to know me more. </h5>
 
                 <div id="cont">
                     <a href="mailto:renan.mougenot@gmail.com"><HiOutlineMail className="cicon"/></a>
