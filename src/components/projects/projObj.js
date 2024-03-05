@@ -42,10 +42,18 @@ export const proj = [
 
     {
         title: "Money Converter",
-        desc: "Created a website that uses a real-time currency API. I manipulate the JSON according to the user's desire of what to do in the website.",
+        desc: "Created a website that uses a real-time currency API. I manipulate the JSON according to the user's desire of what to do in the website. (If the currency is not working, is because the API key is deprecated)",
         github: "https://github.com/renanmbs/currency",
         open: "https://renanmbs.github.io/currency/",
         tech: "javascript, html, css, json, api"
+    },
+
+    {
+        title: "Heliane Mougenot, Psychologist",
+        desc: "Developed a website for a Psychologist in Brazil. Used SEO skills for her website to be ranked higher on Google's Ranking, and to attract new customers. (Page is in Portuguese)",
+        github: "https://github.com/renanmbs/mae",
+        open: "https://psicologaheliane.com/",
+        tech: "html, css"
     },
 
     {
@@ -74,10 +82,18 @@ export const proj = [
 
     {
         title: "Mouge Salon Suite",
-        desc: "Developed the website for a salon suite. Made market research and used data analysis to control client's needs.",
+        desc: "Developed the website for a salon suite. Made market research and used data analysis to control client's needs. Business is permanently closed, but website is held in a secondary link for skill demonstration",
         github: "https://github.com/renanmbs/mouge",
-        open: "https://mougesalon.com/",
+        open: "https://genuine-maamoul-1615f7.netlify.app/",
         tech: "html, css"
+    },
+
+    {
+        title: "Monarch Metal Dynamic Language Website",
+        desc: "Developed a dynamic website for Monarch Metal Inc. The language and image of the website changes according to the language selected.",
+        github: "https://github.com/renanmbs/eu",
+        open: "https://eumm.netlify.app/",
+        tech: "react, html, css"
     },
 
     {
@@ -93,14 +109,6 @@ export const proj = [
         desc: "Created and designed a personal portfolio for the professor and Doctor in Electrical Engineering José Roberto F. da Silva.",
         github: "https://github.com/renanmbs/jose_roberto",
         open: "https://renanmbs.github.io/jose_roberto/english_page.html",
-        tech: "html, css"
-    },
-
-    {
-        title: "Brandon Bingham's Portfolio",
-        desc: "Created and designed a personal portfolio for the CEO of Monarch Metal - Brandon Bingham",
-        github: "https://github.com/renanmbs/brandon_bingham",
-        open: "https://renanmbs.github.io/brandon_bingham/",
         tech: "html, css"
     },
 
