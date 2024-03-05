@@ -41,19 +41,19 @@ export const proj = [
     },
 
     {
+        title: "Monarch Metal Dynamic Language Website",
+        desc: "Developed a dynamic website for Monarch Metal Inc. The language and image of the website changes according to the language selected.",
+        github: "https://github.com/renanmbs/eu",
+        open: "https://eumm.netlify.app/",
+        tech: "react, html, css"
+    },
+
+    {
         title: "Money Converter",
         desc: "Created a website that uses a real-time currency API. I manipulate the JSON according to the user's desire of what to do in the website. (If the currency is not working, is because the API key is deprecated)",
         github: "https://github.com/renanmbs/currency",
         open: "https://renanmbs.github.io/currency/",
         tech: "javascript, html, css, json, api"
-    },
-
-    {
-        title: "Heliane Mougenot, Psychologist",
-        desc: "Developed a website for a Psychologist in Brazil. Used SEO skills for her website to be ranked higher on Google's Ranking, and to attract new customers. (Page is in Portuguese)",
-        github: "https://github.com/renanmbs/mae",
-        open: "https://psicologaheliane.com/",
-        tech: "html, css"
     },
 
     {
@@ -89,11 +89,11 @@ export const proj = [
     },
 
     {
-        title: "Monarch Metal Dynamic Language Website",
-        desc: "Developed a dynamic website for Monarch Metal Inc. The language and image of the website changes according to the language selected.",
-        github: "https://github.com/renanmbs/eu",
-        open: "https://eumm.netlify.app/",
-        tech: "react, html, css"
+        title: "Heliane Mougenot, Psychologist",
+        desc: "Developed a website for a Psychologist in Brazil. Used SEO skills for her website to be ranked higher on Google's Ranking, and to attract new customers. (Page is in Portuguese)",
+        github: "https://github.com/renanmbs/mae",
+        open: "https://psicologaheliane.com/",
+        tech: "html, css"
     },
 
     {
