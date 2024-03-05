@@ -16,7 +16,7 @@ export let Techchoice = (props) =>{
     }
     
     else if(props.tc === "javascript, html, css, json, api"){
-        content = [<BiLogoReact className="ticon"/>,<BiLogoHtml5 className="ticon"/>,<BiLogoCss3 className="ticon"/>,<BiSolidFileJson className="ticon"/>, <TbApi className="ticon"/>];
+        content = [<iLogoJavascript className="ticon"/>,<BiLogoHtml5 className="ticon"/>,<BiLogoCss3 className="ticon"/>,<BiSolidFileJson className="ticon"/>, <TbApi className="ticon"/>];
     }
 
     else if(props.tc === "javascript, html, css"){
