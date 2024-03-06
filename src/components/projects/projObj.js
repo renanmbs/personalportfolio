@@ -105,7 +105,7 @@ export const proj = [
     },
 
     {
-        title: "José Roberto's Portfolio",
+        title: "José Roberto, PhD - Portfolio",
         desc: "Created and designed a personal portfolio for the professor and Doctor in Electrical Engineering José Roberto F. da Silva.",
         github: "https://github.com/renanmbs/jose_roberto",
         open: "https://renanmbs.github.io/jose_roberto/english_page.html",
@@ -145,27 +145,11 @@ export const proj = [
     },
 
     {
-        title: "Accelerating Potential X Electrical Potential",
+        title: "Accelerating Potential x Electrical Potential",
         desc: "Got a function on the time domain, and graphed based on different values of Θ to check the resultant of the relation between Accelerating Potential and Electrical Potential in Power Machines",
         github: "https://github.com/renanmbs/Sample-Work/blob/main/pa.py",
         open: null,
         tech: "python"
-    },
-
-    {
-        title: "Sensor Reading",
-        desc: "Developed a sensor reader for gardening, using a moisture sensor, light sensor, humidity sensor and temperature sensor - along with Arduino IoT Cloud. Graphed data to monitor the readings.",
-        github: "https://github.com/renanmbs/Sample-Work/tree/main/Sensor%20Reading",
-        open: null,
-        tech: "c++"
-    },
-
-    {
-        title: "Andrew Lake - Software Engineering Internship",
-        desc: "Developed the menu, 10x10 grid with randomly generated tile values, random placement of the tiles in the grid, match-checker algorithm, and a matching-tile-removal algorithm for a Match-3 game.",
-        github: "https://github.com/renanmbs/LDSRPG",
-        open: null,
-        tech: "java"
     },
 
     {
@@ -199,5 +183,22 @@ export const proj = [
         open: null,
         tech: "java"
     },
+
+    {
+        title: "Andrew Lake - Software Engineering Internship",
+        desc: "Developed the menu, 10x10 grid with randomly generated tile values, random placement of the tiles in the grid, match-checker algorithm, and a matching-tile-removal algorithm for a Match-3 game.",
+        github: "https://github.com/renanmbs/LDSRPG",
+        open: null,
+        tech: "java"
+    },
+
+    {
+        title: "Sensor Reading",
+        desc: "Developed a sensor reader for gardening, using a moisture sensor, light sensor, humidity sensor and temperature sensor - along with Arduino IoT Cloud. Graphed data to monitor the readings.",
+        github: "https://github.com/renanmbs/Sample-Work/tree/main/Sensor%20Reading",
+        open: null,
+        tech: "c++"
+    },
+
     
 ]
