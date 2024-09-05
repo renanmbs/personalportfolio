@@ -65,6 +65,14 @@ export const proj = [
     },
 
     {
+        title: "Background Changer",
+        desc: "UI/UX website, that allows to change the background color and the text color using HEX color codes or by choosing it from a color input.",
+        github: "https://github.com/renanmbs/background" ,
+        open: "https://renanmbs.github.io/background/",
+        tech: "javascript, html, css"
+    },
+
+    {
         title: "Tip Calculator",
         desc: "Created a calculator to calculate the tip from the user's check. Two possible ways of calculation (percentage of check, or how much you are giving in percentage)",
         github: "https://github.com/renanmbs/tip_calculator",

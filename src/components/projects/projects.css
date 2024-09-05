@@ -19,6 +19,7 @@
 
 .card{
     background-color: #F4EBD0;
+    height: 28rem;
     margin: 2rem 10rem;
     display: flex;
     border: solid #D6AD60;
@@ -26,7 +27,9 @@
 }
 
 .card img{
-    height: 22rem;
+    height: 100%;
+    width: auto;
+    object-fit: auto;
     min-width: 30rem;
     max-width: 30rem;
     border-right: solid #D6AD60;

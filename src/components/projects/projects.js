@@ -34,6 +34,52 @@ export class Projects extends React.Component{
                 <div id="lineup">
 
                     <div className="card">
+                            <img src="/Docs/projects/classic.jpg" alt="Weber State Men's Soccer App"/>
+
+                            <div className="inf">
+                                <h3>Classic Drip's Website</h3>
+                                <div className="open">
+                                    <a href="https://ephemeral-bunny-dabb76.netlify.app/" target="_blank" rel="noopener noreferrer"><MdOpenInNew/></a>
+                                    <a href="https://github.com/renanmbs/classicdrip" target="_blank" rel="noopener noreferrer"><BiLogoGithub/></a>
+                                </div>
+                                <p>An expandable React app used by Classic Drip - a clothing brand. Used UI/UX concepts to improve User Experience and
+                                    attract more customers to the brand.
+                                </p>
+                                <div className="tech">
+                                    <h4>Technology Stack:</h4>
+                                    <BiLogoReact className="icon"/>
+                                    <BiLogoHtml5 className="icon"/>
+                                    <BiLogoCss3 className="icon"/>
+                                    <BiLogoJavascript className="icon"/>
+                                </div>
+                            </div>
+                        
+                    </div>
+
+                    <div className="card">
+                        <img src="/Docs/projects/mm.jpg" alt="Weber State Men's Soccer App"/>
+
+                        <div className="inf">
+                            <h3>Monarch Metal Configurator</h3>
+                            <div className="open">
+                                <a href="https://mmconfigurator.netlify.app/" target="_blank" rel="noopener noreferrer"><MdOpenInNew/></a>
+                                <a href="https://github.com/renanmbs/configurator" target="_blank" rel="noopener noreferrer"><BiLogoGithub/></a>
+                            </div>
+                            <p>A React size configurator used by Monarch Metal. Takes user input measurements and calcaulates the hole spacing
+                                needed for their engineering team. Also has the ability to download the measurements via a TXT file.
+                            </p>
+                            <div className="tech">
+                                <h4>Technology Stack:</h4>
+                                <BiLogoReact className="icon"/>
+                                <BiLogoHtml5 className="icon"/>
+                                <BiLogoCss3 className="icon"/>
+                                <BiLogoJavascript className="icon"/>
+                            </div>
+                        </div>
+                       
+                    </div>
+
+                    <div className="card">
                         <img src="/Docs/projects/webb.jpg" alt="Weber State Men's Soccer App"/>
 
                         <div className="inf">
@@ -113,26 +159,6 @@ export class Projects extends React.Component{
                                 <TbApi className="icon"/>
                             </div>
                         </div>
-                    </div>
-
-                    <div className="card">
-                        <img src="Docs/projects/back.jpg" alt="Background Changer"/>
-                        <div className="inf">
-                            <h3>Background Changer</h3>
-                            <div className="open">
-                                <a href="https://renanmbs.github.io/background/" target="_blank" rel="noopener noreferrer"><MdOpenInNew/></a>
-                                <a href="https://github.com/renanmbs/background" target="_blank" rel="noopener noreferrer"><BiLogoGithub/></a>
-                            </div>
-                            <p>UI/UX website, that allows to change the background color and the text color using HEX color codes or by choosing it from a color input. 
-                            </p>
-                            <div className="tech">
-                                <h4>Technology Stack:</h4>
-                                <BiLogoHtml5 className="icon"/>
-                                <BiLogoCss3 className="icon"/>
-                                <BiLogoJavascript className="icon"/>
-                            </div>
-                        </div>
-                        
                     </div>
 
                     <br/>

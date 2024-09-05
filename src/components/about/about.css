@@ -73,7 +73,7 @@
 }
 
 #bul{
-    margin: 5rem 0;
+    margin: 5rem 10rem;
 }
 
 #bul li{
@@ -81,6 +81,10 @@
     margin: 0 5rem;
     font-style: italic;
     font-size: 1.1rem;
+}
+
+.inf{
+    margin: 0 10rem;
 }
 
 @media only screen and (max-width:1023px){
@@ -114,7 +118,7 @@
     }
 
     #bul{
-        margin: 1rem 0 0rem 0;
+        margin: 1rem 5rem 0rem 5rem;
     }
     
     #bul li{
@@ -126,6 +130,10 @@
 
     #bul ul{
         margin: 0 1rem;
+    }
+
+    .inf{
+        margin: 0 5rem;
     }
 }
 
