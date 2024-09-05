@@ -127,13 +127,14 @@
     .card{
         margin: 1rem 0.3rem;
         width: 22rem;
-        height: 17rem;
+        height: 20rem;
     }
     
     .card img{
-        height: 16.7rem;
-        min-width: 10rem;
-        max-width: 10rem;
+        height: 19.7rem;
+        min-width: 12rem;
+        max-width: 12rem;
+        
     }
 
     .card h3{
@@ -141,7 +142,7 @@
     }
     
     .card p{
-        margin: 1rem 0.8rem;
+        margin: 0rem 0rem;
         font-size: 0.6rem;
     }
     

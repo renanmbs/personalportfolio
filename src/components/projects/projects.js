@@ -59,7 +59,7 @@ export class Projects extends React.Component{
                     <div className="card">
                         <img src="/Docs/projects/mm.jpg" alt="Weber State Men's Soccer App"/>
 
-                        <div className="inf">
+                        <div className="inff">
                             <h3>Monarch Metal Configurator</h3>
                             <div className="open">
                                 <a href="https://mmconfigurator.netlify.app/" target="_blank" rel="noopener noreferrer"><MdOpenInNew/></a>
