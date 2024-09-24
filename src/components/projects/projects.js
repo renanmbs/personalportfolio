@@ -39,7 +39,7 @@ export class Projects extends React.Component{
                             <div className="inf">
                                 <h3>Classic Drip's Website</h3>
                                 <div className="open">
-                                    <a href="https://ephemeral-bunny-dabb76.netlify.app/" target="_blank" rel="noopener noreferrer"><MdOpenInNew/></a>
+                                    <a href="https://glittering-basbousa-131eb1.netlify.app/" target="_blank" rel="noopener noreferrer"><MdOpenInNew/></a>
                                     <a href="https://github.com/renanmbs/classicdrip" target="_blank" rel="noopener noreferrer"><BiLogoGithub/></a>
                                 </div>
                                 <p>An expandable React app used by Classic Drip - a clothing brand. Used UI/UX concepts to improve User Experience and
