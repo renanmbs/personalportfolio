@@ -12,7 +12,7 @@ export class About extends React.Component{
                     <div className="inf">
 
                     
-                        <p className="start">I'm a Computer Engineer graduate from <span style={{color:"purple"}}><a href="https://weber.edu/"  target="_blank" rel="noopener noreferrer">Weber State University</a></span>, where my journey into the world of front-end software engineering began to take shape. This passion truly ignited during my internship
+                        <p className="start">I'm a Computer Engineer graduate from <span style={{color:"purple"}}><a href="https://weber.edu/"  target="_blank" rel="noopener noreferrer">Weber State University</a></span>. My passion for <i>Front-end engineering</i> ignited during my internship
                             as a Software Engineer and continued to flourish through my college Senior Project.
                             
                             <br/><br/>
@@ -22,12 +22,12 @@ export class About extends React.Component{
                         
                         <br/>
 
-                        <p>With a refined skill set that includes CSS, HTML, JavaScript, React, SQL, Python and C++, I use my creativity and programming expertise to tackle problems head-on. My pragmatic approach, combined with a fast-learning mindset, allows me to craft scalable, user-friendly, and functional code from concept to deployment. </p>
+                        <p>My skill set that includes CSS, HTML, JavaScript, React, SQL, Python and C++, I use my creativity and programming expertise to tackle problems head-on. My pragmatic approach, combined with a fast-learning mindset, allows me to craft scalable, user-friendly, and functional code from concept to deployment. </p>
 
                         <br/>
 
                         <p>Beyond coding, I lead a rich and diverse life. My interests span from spending quality time with my wife and daughter to volunteering as the head coach for the Weber State University 
-                            Men's Soccer Team and as an assistant coach for the <span style={{color:"red"}}><a href="https://www.lcaeagle.org/"  target="_blank" rel="noopener noreferrer">Layton Christian Academy</a></span> Men's Soccer Team. I find inspiration in music and enjoy playing soccer myself.
+                            Men's Soccer Team. I find inspiration in music and enjoy playing soccer myself.
                         </p>
                         
                     </div>
